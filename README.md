@@ -1,5 +1,7 @@
 # Netflix-Clustering
 
+# Problem Statement
+Problem Statement Netflix has a large collection of movies and TV shows, and it can be challenging for users to find content that matches their interests. The problem is compounded by the fact that new releases are added regularly, making it difficult to keep up with the latest trends. In this document, we aim to address this problem by using clustering and time. Forecasting techniques to group similar movies and TV shows together and 
 
 # Description      
 Netflix is a streaming platform that provides a vast range of movies and TV shows to its users. The platform has grown rapidly in recent years, and its popularity continues to increase. Netflix's success is attributed to its wide range of content, including original content and licensed content from other studios. The platform is available in over 190 countries, and its content varies by region. This analysis aims to explore the content available on Netflix and identify patterns and trends in the data.
